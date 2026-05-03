@@ -22,6 +22,8 @@ npm run build
 ```shell
 npm start
 ```
+### Note on the deoployed version
+First load may take ~30s as the free tier wakes up. Conisedering moving it to another platform that handles cold starts better. 
 
 ### Acknowledgment
 
